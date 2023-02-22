@@ -12,6 +12,7 @@ def choose(n):
     else:
         return -1
 
+    
 def temp1():
     # Here are the all inputs for Template 1
 
